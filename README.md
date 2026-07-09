@@ -50,9 +50,9 @@ The system reads sound intensity values from the microphone module, calculates t
 
 
 ### Screenshots
-!\[Homepage](images/Sound_Meter_Image_1.png)
+![Sound Meter Image 1](./images/Sound_Meter_Image_1.png)
 
-!\[Homepage](images/Sound_Meter_Image_2.png)
+![Sound Meter Image 2](./images/Sound_Meter_Image_2.png)
 
 ### How It Works
 
