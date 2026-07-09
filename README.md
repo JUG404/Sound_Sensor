@@ -49,6 +49,9 @@ The system reads sound intensity values from the microphone module, calculates t
 \- Analog Signal Reading
 
 
+### Screenshots
+!\[Homepage](images/Sound_Meter_Image_1.png)
+!\[Homepage](images/Sound_Meter_Image_2.png)
 
 ### How It Works
 
